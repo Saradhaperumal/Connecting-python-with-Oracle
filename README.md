@@ -6,8 +6,10 @@ Install Necessary Libraries:
 
 Use the Faker library to generate synthetic data and cx_Oracle to connect to and interact with the Oracle database.
 
-pip install Faker cx_Oracle
-pip install faker
+1..pip install Faker cx_Oracle
+
+
+2..pip install faker
 
 Set Up Database Connection:
 
